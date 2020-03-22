@@ -1,0 +1,1 @@
+url = 'mongodb+srv://every:every123@cluster0-2je18.gcp.mongodb.net/flaskapi?retryWrites=true&w=majority'
